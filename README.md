@@ -1,4 +1,7 @@
-# Machine Learning
-My first repository of Machine Learning on GitHub.
+# Self-driving projects
+This repository include all the materials during my learning of self-driving. 
+
+## Project1 - Lane Detection Basics
+
 
 
